@@ -32,8 +32,8 @@
         },
         {
             "id":3,
-            "cardName":"Bank of America - Platinum Card",
-            "BankName":"Bank of America",
+            "cardName":"Bank of China - Platinum Card",
+            "BankName":"Bank of China",
             "description":"Bank of America offers customer with variety of ",
             "maxCredit":8000,
             "active":true,
@@ -47,8 +47,8 @@
         },
         {
             "id":4,
-            "cardName":"Bank of America - Platinum Card",
-            "BankName":"Bank of America",
+            "cardName":"Bank of Rusia - Platinum Card",
+            "BankName":"Bank of Rusia",
             "description":"Bank of America offers customer with variety of ",
             "maxCredit":8000,
             "active":true,
@@ -62,9 +62,9 @@
         },
         {
             "id":5,
-            "cardName":"Bank of America - Platinum Card",
+            "cardName":"Bank of INDIA - Platinum Card",
             "BankName":"Bank of America",
-            "description":"Bank of America offers customer with variety of ",
+            "description":"Bank of INDIA offers customer with variety of ",
             "maxCredit":8000,
             "active":true,
             "annualFee":0.2,
