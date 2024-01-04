@@ -1,0 +1,25 @@
+<mat-toolbar class="toolbar-header">
+  <button (click)="toggleSideBar()" mat-icon-button class="example-icon"
+    aria-label="Example icon-button with menu icon">
+    <mat-icon>menu</mat-icon>
+  </button>
+  <span>CreditCardAdminPortel</span>
+  <span class="header-spacer"></span>
+  <button mat-icon-button class="example-icon favorite-icon" aria-label="Example icon-button with heart icon">
+    <mat-icon>favorite</mat-icon>
+  </button>
+  <button mat-icon-button class="example-icon" aria-label="Example icon-button with share icon">
+    <mat-icon>share</mat-icon>
+  </button>
+</mat-toolbar>
+
+<mat-drawer-container class="main-content-container">
+  <mat-drawer [opened]="isSideBarOpened" class="sidebar" mode="side">
+    <p>welcome to menu</p>
+  </mat-drawer>
+
+  <mat-drawer-content class="main-content">
+    <router-outlet></router-outlet>
+  </mat-drawer-content>
+
+</mat-drawer-container>

@@ -1,0 +1,25 @@
+.header-spacer {
+    flex: 1 1 auto;
+}
+
+.toolbar-header {
+    background-color: #3c4852;
+    color: #ffffff;
+}
+
+.main-content-container {
+   height: 100%;
+   min-height: 100vh;
+}
+
+// .main-content {
+//     display: flex;
+//     height: 100%;
+//     align-items: center;
+//     justify-content: center;
+// }
+
+.sidebar {
+    padding: 20px;
+    background-color: #f5f5f5;
+}

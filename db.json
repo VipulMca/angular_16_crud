@@ -1,0 +1,79 @@
+{
+    "creditcards":[
+        {
+            "id":1,
+            "cardName":"Bank of America - Platinum Card",
+            "BankName":"Bank of America",
+            "description":"Bank of America offers customer with variety of ",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interetRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"28-08-2023",
+            "termAndConditions":"The following consdition is required"
+        },
+        {
+            "id":2,
+            "cardName":"Bank of America - Platinum Card",
+            "BankName":"Bank of America",
+            "description":"Bank of America offers customer with variety of ",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interetRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"28-08-2023",
+            "termAndConditions":"The following consdition is required"
+        },
+        {
+            "id":3,
+            "cardName":"Bank of America - Platinum Card",
+            "BankName":"Bank of America",
+            "description":"Bank of America offers customer with variety of ",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interetRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"28-08-2023",
+            "termAndConditions":"The following consdition is required"
+        },
+        {
+            "id":4,
+            "cardName":"Bank of America - Platinum Card",
+            "BankName":"Bank of America",
+            "description":"Bank of America offers customer with variety of ",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0,
+            "interetRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"28-08-2023",
+            "termAndConditions":"The following consdition is required"
+        },
+        {
+            "id":5,
+            "cardName":"Bank of America - Platinum Card",
+            "BankName":"Bank of America",
+            "description":"Bank of America offers customer with variety of ",
+            "maxCredit":8000,
+            "active":true,
+            "annualFee":0.2,
+            "interetRate":13.5,
+            "introOffer":200,
+            "recommendedCreditScore":"600-800",
+            "numberOfApplications":40,
+            "createdDate":"28-08-2023",
+            "termAndConditions":"The following consdition is required"
+        }
+    ]
+}
